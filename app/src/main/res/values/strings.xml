@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spaz</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="titleHint">Nama Tugas</string>
+    <string name="reminderHint">Deskripsi Tugas</string>
+    <string name="addNote">Tambah Catatan</string>
+    <string name="addAlert">Tambah Pengingat</string>
+    <string name="delete">Hapus</string>
+    <string name="settings">Pengaturan</string>
+    <string name="empty">Tidak ada Reminder</string>
+    <string name="textLimit">9</string>
+</resources>

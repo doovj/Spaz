@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_5401018255ef53e5a8ee5d4affa0d4d6ff960291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0c3c8183b39793c752a48dc33935bba62221975c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_ec0069888a149d3e55306e54903dc948e73fc024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.4_d320ebd91665dd242d924115c22ec0dbee9b0807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_02c5d7bc484366822428189f6ca1c86d55d8247e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c41cab1863259c4067ab7c930a408dd1695a5291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_847eaa41242abb7384577ba9c9d708b822e6bdc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_bbb63314431af1a4119301b10c1f7b97fd6c99fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_772dff2394deef2da37d5fb3d54b89e0e375aa64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_14e03d683fac7751e18b38892791785636709fd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_1116cb3983c80df15361c5dca97f36c6b34d2c1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_5401018255ef53e5a8ee5d4affa0d4d6ff960291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_276485d525019fd2406980de46ba39b3ad49f68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d7dbcceaac868261e3abe7b3c7e571972749d17a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_37e9f3936d89b6da1ee0d195296ab02bacfe363a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_b1ab3c2bcc16ea2eacea8735677b7c9ce7c05f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c25632a830d00afcf840085dfaa12cefbb55f2f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_2d744a4edf0ada63cc1501e75833ad669957de20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_ec0069888a149d3e55306e54903dc948e73fc024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0c3c8183b39793c752a48dc33935bba62221975c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_02c5d7bc484366822428189f6ca1c86d55d8247e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.4_d320ebd91665dd242d924115c22ec0dbee9b0807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_1116cb3983c80df15361c5dca97f36c6b34d2c1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_772dff2394deef2da37d5fb3d54b89e0e375aa64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_847eaa41242abb7384577ba9c9d708b822e6bdc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c41cab1863259c4067ab7c930a408dd1695a5291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_fde33887b705cd0165f2adeb4b52eaacf35c4b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e40bf5df18f7e0d540f83f1eef13c5174562612f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_bbb63314431af1a4119301b10c1f7b97fd6c99fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e40bf5df18f7e0d540f83f1eef13c5174562612f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_fde33887b705cd0165f2adeb4b52eaacf35c4b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_276485d525019fd2406980de46ba39b3ad49f68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_14e03d683fac7751e18b38892791785636709fd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_2d744a4edf0ada63cc1501e75833ad669957de20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d7dbcceaac868261e3abe7b3c7e571972749d17a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c25632a830d00afcf840085dfaa12cefbb55f2f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_37e9f3936d89b6da1ee0d195296ab02bacfe363a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\asyaky\AndroidStudioProjects\Spaz\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_b1ab3c2bcc16ea2eacea8735677b7c9ce7c05f38.jar" />
+    </item>
+
+</items>
